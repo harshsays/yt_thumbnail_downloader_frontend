@@ -6,7 +6,6 @@ function App(){
     <div id="App">
       <div id="header"><Header></Header></div>
       <div id="content"><Content></Content></div>
-      <div id="footer"></div>
     </div>
   )
 }

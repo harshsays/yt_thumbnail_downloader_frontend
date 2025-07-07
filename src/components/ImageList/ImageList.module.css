@@ -1,0 +1,8 @@
+#ImageList{
+    height: 15em;
+    width: 45em;
+    /* background-color: green; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

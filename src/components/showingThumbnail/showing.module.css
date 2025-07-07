@@ -1,0 +1,22 @@
+#showContainer{
+    min-height: 20rem;
+    height: auto;
+    /* background-color: red; */
+    width: 48rem;
+    border-radius: 6px;
+}
+
+#headingContainer{
+    height: 4em;
+    width: 100%;
+}
+#thumbnailListContainer{
+    min-height: 17em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    /* background-color: blue; */
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}

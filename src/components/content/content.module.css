@@ -1,13 +1,17 @@
 #searchContainer{
-    height: 5em;
+    min-height: 5em;
     /* background-color: blue; */
     display: flex;
     justify-content: center;
     align-items: center;
 }
 #showingContainer{
-    height: 22em;
-    /* background-color: red; */
+    min-height: 22rem;
+    height: auto;
+    /* background-color: green; */
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

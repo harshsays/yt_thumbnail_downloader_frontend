@@ -23,6 +23,7 @@ input{
   border-radius: 6px;
     border: 2px solid rgba(128, 128, 128, 0.363); 
      padding-left: 1rem; /* or 10px */
+     box-shadow: 6px 6px 10px rgb(0, 0, 0);
 }
 
 input::placeholder {
