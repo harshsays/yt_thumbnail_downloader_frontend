@@ -1,0 +1,36 @@
+#searchContainer{
+    height: 2.5em;
+    width: 38em;
+   
+    display: flex;
+    justify-content: space-between;
+}
+
+#leftSide {
+    height: 100%;
+    width: 60%;
+    /* background-color: black; */
+}
+#rightSide{
+    height: 100%;
+    width: 23%;
+    
+}
+#rightSide button{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(228,61,61,1);
+    cursor: grab;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+#rightSide button:hover{
+    color: white;
+}
+
+#leftSide input{
+    height: 100%;
+    width: 100%;
+}
